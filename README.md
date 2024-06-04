@@ -1,13 +1,17 @@
 <div align="center">
   
-
+![Estudando Python](https://github.com/Lionel-Rocha/Estudando-Python/assets/111009073/8b69430d-435e-42ee-8498-af6697637fdc)
 
 </div>
 
+## 📌 Estudando programação
+
+Comecei no dia 1/4/2024.
+Nesse repositório, estão minhas resoluções de exercícios de programação vindos de diversas fontes. Estou seguindo o curso "three month preparation kit" do HackerRank.
 
 ## 📌 Fontes dos exercícios
 
-Primariamente, são três:
+Primariamente, são essas:
 
 [Exercism](https://exercism.org/tracks/python/exercises)
 
