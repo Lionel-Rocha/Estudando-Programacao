@@ -4,8 +4,7 @@ import random
 import re
 import sys
 
-
-
+# Ao invés de calcular um por um, calcula uma vez e tira o maior/menor elemento para obter a soma mínima e a soma máxima
 def miniMaxSum(arr):
     total_sum = sum(arr)
     min_sum = total_sum - max(arr)
