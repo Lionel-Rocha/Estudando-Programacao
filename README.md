@@ -21,8 +21,7 @@ Primariamente, são essas:
 
 [LeetCode](https://leetcode.com/explore/learn/)
 
-E os exercícios do curso Polkadot Academy do Código Brazuca.
-
 [HackerRank](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
 
-Caso haja novas fontes, haverei de colocar no repositório.
+E os exercícios do curso Polkadot Academy do Código Brazuca.
+
