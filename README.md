@@ -7,7 +7,7 @@
 ## 📌 Estudando programação
 
 Comecei no dia 1/4/2024.
-Nesse repositório, estão minhas resoluções de exercícios de programação vindos de diversas fontes. Estou seguindo o curso "three month preparation kit" do HackerRank.
+Estou fazendo exercícios de diversas linguagens, não só para aprender a codar nelas, mas também para exercitar a mente de programador. Agreguei nesse repositório todos os exercícios que fiz.
 
 ## 📌 Fontes dos exercícios
 
@@ -20,6 +20,8 @@ Primariamente, são essas:
 [HackInScience](https://www.hackinscience.org/exercises/)
 
 [LeetCode](https://leetcode.com/explore/learn/)
+
+E os exercícios do curso Polkadot Academy do Código Brazuca.
 
 [HackerRank](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges)
 
