@@ -1,0 +1,25 @@
+use std::io;
+
+//se usar i32 dá overflow... u64 representa valores POSITIVOS até 2^64. Perfeito para essa solução.
+fn total_grains(square: i32) -> u64 {
+    if square == 1 {
+        1 // caso-base: na primeira casa tem 1 grão
+    } else {
+        2 * total_grains(square - 1) // chamada recursiva
+    }
+}
+
+fn gets_input() -> i32{
+    let mut input = String::new();
+    println!("Insert a number: ");
+    io::stdin().read_line(&mut input).expect("Failed to read line");
+
+    let num: i32 = input.trim().parse().expect("Invalid input");
+    return num;
+}
+
+fn main() {
+    let square = gets_input();
+    let total = total_grains(square);
+    println!("Total of grains at square {}: {}", square, total);
+}
